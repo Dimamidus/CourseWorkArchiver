@@ -1,0 +1,11 @@
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\bin\Debug\FileArchiver.exe.config
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\bin\Debug\FileArchiver.exe
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\bin\Debug\FileArchiver.pdb
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.csproj.AssemblyReference.cache
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.Form1.resources
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.Properties.Resources.resources
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.csproj.GenerateResource.cache
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.csproj.CoreCompileInputs.cache
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.exe
+C:\Users\dimamidus\source\repos\FileArchiver\FileArchiver\obj\Debug\FileArchiver.pdb
